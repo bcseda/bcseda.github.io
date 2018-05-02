@@ -9,8 +9,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-394fdbf703bee1bd0030.js",
-      "component---src-layouts-index-js-394fdbf703bee1bd0030.js.map"
+      "component---src-layouts-index-js-26e9a42ea284260204da.js",
+      "component---src-layouts-index-js-26e9a42ea284260204da.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -22,16 +22,22 @@
     ],
     "commons": [
       "commons-87965dbda70c844d4255.js",
-      "commons-87965dbda70c844d4255.js.map"
+      "build-js-styles.css",
+      "commons-87965dbda70c844d4255.js.map",
+      "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---forex": [
+      "path---forex-a0e39f21c11f6a62c5ab.js",
+      "path---forex-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "app": [
-      "app-e87a6561d0cbad96ffbe.js",
+      "app-018834eb2db8497abf5f.js",
       "build-js-styles.css",
-      "app-e87a6561d0cbad96ffbe.js.map",
+      "app-018834eb2db8497abf5f.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -41,6 +47,10 @@
     "component---src-pages-about-js": [
       "component---src-pages-about-js-cab9d45ae257ce87bbb0.js",
       "component---src-pages-about-js-cab9d45ae257ce87bbb0.js.map"
+    ],
+    "component---src-pages-forex-js": [
+      "component---src-pages-forex-js-de286b99506447173dd4.js",
+      "component---src-pages-forex-js-de286b99506447173dd4.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
